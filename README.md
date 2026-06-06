@@ -1,6 +1,3 @@
-
-
-
 # ⚠️ No Longer Maintained ⚠️
 This project is no longer actively maintained. No further updates, bug fixes, or support will be provided.
 
